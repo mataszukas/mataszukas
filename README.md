@@ -17,7 +17,7 @@ Python • SQL • Pandas • scikit-learn • Docker • Git • Jupyter Notebo
 I am currently focusing on expanding SQL and AI Engineering skillset.
 
 ## 📫 Contact
-Email: [matasz89@gmail.com] • LinkedIn: [linkedin.com/in/matas-zukas]
+Email: [matasz89@gmail.com] • LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/matas-zukas)
 
 ## ✨ Looking for opportunities
 I’m open to internship in data science to jumpstart my career and prove myself as a valuable contributor!
